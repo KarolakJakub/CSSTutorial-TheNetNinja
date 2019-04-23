@@ -1,4 +1,13 @@
+/***********
+*
+*   Author: Jakub K.
+*
+************/
+
+/* style for <p> tags */
+
 p{
     font-size: 18px;
     color: blueviolet;
 }
+
