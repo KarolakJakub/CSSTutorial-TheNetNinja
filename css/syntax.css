@@ -6,10 +6,14 @@
 
 /* tag styles */
 
-span{
-    color: blue;
+body{
+    color: red;
 }
 
-span{
-    color: red;
+p{
+    color: green;
+}
+
+div{
+    color: blue;
 }
