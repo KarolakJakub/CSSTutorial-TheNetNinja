@@ -6,10 +6,10 @@
 
 /* tag styles */
 
-article.featured-content{
-    background: red;
+*{
+    color: yellow;
 }
 
-div.featured-content{
-    background: blue;
+p{
+    color: red;
 }
