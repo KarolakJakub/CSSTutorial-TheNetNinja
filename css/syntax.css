@@ -6,6 +6,6 @@
 
 /* tag styles */
 
-#main-content > p{
+h2 + p{
     color: red;
 }
