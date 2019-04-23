@@ -6,14 +6,14 @@
 
 /* tag styles */
 
-div, p, span, ul{
-    display: block;
-}
-
-article p:first-child{
+li:nth-child(1), li:nth-child(7){
     font-weight: bold;
 }
 
-article p:last-child{
-    color: red;
+li:nth-child(even){
+    background: grey;
+}
+
+li:nth-child(odd){
+    background: pink;
 }
