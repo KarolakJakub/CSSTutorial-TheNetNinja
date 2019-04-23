@@ -6,20 +6,10 @@
 
 /* tag styles */
 
-#content-header{
-    font-size: 18px;
-    color: red;
-}
-
-h2{
-    font-size: 24px;
-}
-
 span{
-    display: block;
     color: blue;
 }
 
-.deck{
+span{
     color: red;
 }
