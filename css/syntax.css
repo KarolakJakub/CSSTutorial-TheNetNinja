@@ -6,11 +6,10 @@
 
 /* tag styles */
 
-strong{
-    color: blue;
+p{
+    color: red !important;
 }
 
 #main-content p{
-    color: red;
+    color: green;
 }
-
