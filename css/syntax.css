@@ -6,14 +6,11 @@
 
 /* tag styles */
 
-body{
+strong{
+    color: blue;
+}
+
+#main-content p{
     color: red;
 }
 
-p{
-    color: green;
-}
-
-div{
-    color: blue;
-}
