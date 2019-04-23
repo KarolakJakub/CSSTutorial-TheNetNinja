@@ -13,3 +13,11 @@ div, p, a, span, ul{
 a:hover{
     color: magenta;
 }
+
+a:active{
+    color: orange;
+}
+
+a:visited{
+    color: seagreen;
+}
