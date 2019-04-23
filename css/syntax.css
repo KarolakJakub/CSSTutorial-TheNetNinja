@@ -6,6 +6,22 @@
 
 /* tag styles */
 
-h2 + p{
+div, p, a, span, ul{
+    display: block;
+}
+
+span[class~="deck"]{
+    color: purple;
+}
+
+div[id]{
+    background: grey;
+}
+
+a[title="Wirtualna Polska"]{
+    color: fuchsia;
+}
+
+a[href$=".pdf"]{
     color: red;
 }
