@@ -6,18 +6,14 @@
 
 /* tag styles */
 
-div, p, a, span, ul{
+div, p, span, ul{
     display: block;
 }
 
-a:hover{
-    color: magenta;
+article p:first-child{
+    font-weight: bold;
 }
 
-a:active{
-    color: orange;
-}
-
-a:visited{
-    color: seagreen;
+article p:last-child{
+    color: red;
 }
