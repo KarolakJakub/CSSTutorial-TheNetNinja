@@ -6,40 +6,25 @@
 
 /* tag styles */
 
-.box{
-    margin: 20px;
-    padding: 20px;
-    float: left;
+.block{
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid black;
 }
 
-.dashed{
-    border: 15px blue dashed;
+.inline{
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid black;
+    display: inline-block;
 }
 
-.dotted{
-    border: 15px blue dotted;
-}
-
-.double{
-    border: 15px blue double;
-}
-
-.groove{
-    border: 15px blue groove;
-}
-
-.inset{
-    border: 15px blue inset;
-}
-
-.outset{
-    border: 15px blue outset;
-}
-
-.ridge{
-    border: 15px blue ridge;
-}
-
-.solid{
-    border: 15px blue solid;
+a{
+    padding: 10px;
+    margin: 10px;
+    background-color: blue;
+    border: 1px solid black;
+    color: green;
+    text-decoration: none;
+    display: inline-block;
 }
