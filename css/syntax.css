@@ -6,10 +6,10 @@
 
 /* tag styles */
 
-#header p{
-    text-transform: capitalize;
+#header h1{
+    color: chocolate;
 }
 
-body > p{
-    text-transform: uppercase;
+#header{
+    background-color:
 }
