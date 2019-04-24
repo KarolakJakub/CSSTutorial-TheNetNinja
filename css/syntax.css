@@ -6,10 +6,10 @@
 
 /* tag styles */
 
-p{
-    font-size: 12px;
-    letter-spacing: normal;
-    word-spacing: 2px;
-    line-height: 1.5em;
-    margin-bottom: 32px;
+.box{
+    margin: 30px;
+    padding: 30px;
+    border: 2px solid black;
+    /* width: 400px;
+    height: 200px; */
 }
