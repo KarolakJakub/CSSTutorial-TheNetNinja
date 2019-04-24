@@ -6,14 +6,6 @@
 
 /* tag styles */
 
-article{
-    font-size: 16px;
-}
-
-article h2{
-    font-size: 3em;
-}
-
-article a{
-    font-size: 110%;
+article p, article h2{
+    font-family: Arial;
 }
