@@ -13,7 +13,8 @@
 
 .static-width{
     width: 300px;
-    height: 100px;
+    height: 300px;
+    border-radius: 5px 10px 15px 20px;
 }
 
 .percentage-width{
@@ -22,6 +23,8 @@
 }
 
 .inline-block{
-    width: 40%;
-    display: inline-block;
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    padding: 10%;
 }
