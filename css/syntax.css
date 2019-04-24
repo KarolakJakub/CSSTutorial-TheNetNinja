@@ -6,6 +6,10 @@
 
 /* tag styles */
 
-article p, article h2{
-    font-family: Arial;
+article{
+    text-decoration: overline;
+}
+
+a{
+    text-decoration: darkred;
 }
