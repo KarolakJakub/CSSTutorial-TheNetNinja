@@ -9,8 +9,5 @@
 .static-width{
     width: 300px;
     height: 300px;
-    background-color: #606060;
-    background-image: url(http://zoowitek.pl/environment/cache/images/0_0_productGfx_7b590604736b4a68438f1d64da7b4cc6.jpg);
-    background-size: cover;
-    background-position: center;
+    background: url(http://zoowitek.pl/environment/cache/images/0_0_productGfx_7b590604736b4a68438f1d64da7b4cc6.jpg);
 }
