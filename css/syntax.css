@@ -7,7 +7,39 @@
 /* tag styles */
 
 .box{
-    margin: 30px;
-    padding: 30px 20px 10px 5px;
-    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+    float: left;
+}
+
+.dashed{
+    border: 15px blue dashed;
+}
+
+.dotted{
+    border: 15px blue dotted;
+}
+
+.double{
+    border: 15px blue double;
+}
+
+.groove{
+    border: 15px blue groove;
+}
+
+.inset{
+    border: 15px blue inset;
+}
+
+.outset{
+    border: 15px blue outset;
+}
+
+.ridge{
+    border: 15px blue ridge;
+}
+
+.solid{
+    border: 15px blue solid;
 }
