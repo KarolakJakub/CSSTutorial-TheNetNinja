@@ -6,25 +6,11 @@
 
 /* tag styles */
 
-#main-content div{
-    background-color: grey;
-    margin: 0 0 20px 0;
-}
-
 .static-width{
     width: 300px;
     height: 300px;
-    border-radius: 5px 10px 15px 20px;
-}
-
-.percentage-width{
-    width: 70%;
-    height: 50px;
-}
-
-.inline-block{
-    height: 100px;
-    width: 100px;
-    border-radius: 100%;
-    padding: 10%;
+    background-color: #606060;
+    background-image: url(http://zoowitek.pl/environment/cache/images/0_0_productGfx_7b590604736b4a68438f1d64da7b4cc6.jpg);
+    background-size: cover;
+    background-position: center;
 }
