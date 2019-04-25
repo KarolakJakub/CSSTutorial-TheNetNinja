@@ -6,8 +6,21 @@
 
 /* tag styles */
 
-#banner{
-    width: 100%;
-    height: 300px;
-    background-color: #b12c2c62;
+.button{
+    display: block;
+    width: 100px;
+    padding: 12px;
+    border: 1px solid #77aaaa;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 14px;
+    text-align: center;
+    border-radius: 4px;
+    background: -webkit-linear-gradient(top, #aadddd 0%, #194747 100%);
+
+}
+
+.button:hover{
+    background: -webkit-linear-gradient(top, #353535 0%, #232424 100%);
 }
