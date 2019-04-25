@@ -18,9 +18,10 @@
     text-align: center;
     border-radius: 4px;
     background: -webkit-linear-gradient(top, #aadddd 0%, #194747 100%);
+    box-shadow: 2px 2px 4px 2px rgba(40, 40, 40, .6);
 
 }
 
 .button:hover{
-    background: -webkit-linear-gradient(top, #353535 0%, #232424 100%);
+    background: -webkit-linear-gradient(top, #e6dddd 0%, #232424 100%);
 }
